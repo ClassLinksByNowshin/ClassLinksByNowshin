@@ -62,3 +62,12 @@
   cursor: pointer;
   display: inline-block;
 }
+.footer{
+   background-color: #333;
+  overflow: hidden;
+    color: white;
+  text-align: center;
+   font-size: 17px;
+  padding : 20px;
+  
+}
