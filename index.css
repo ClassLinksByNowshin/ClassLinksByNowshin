@@ -4,7 +4,7 @@ body
 	background:white;
 }
 .topnav {
-  background-color: #81DAF5;
+  background-color:#81DAF5;
   overflow: hidden;
   box-shadow: 1px 2px 5px black;
 }
@@ -13,12 +13,11 @@ body
 .topnav a {
   float: left;
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  text-shadow:2px 2px 3px black;
 }
 /* Change the color of links on hover */
 .topnav a:hover {
@@ -71,7 +70,7 @@ body
 	padding:3px 3px;
 	background-color:#81DAF5;
 	text-align: center;
-	border: 5px solid  #2E9AFE;
+	border: 2px solid  #2E9AFE;
 	 box-shadow: 1px 2px 5px #81DAF5;
 }
 .header {
@@ -87,14 +86,13 @@ body
 }
 .btn1 {
   border: none;
-  color : white;
-  text-shadow:1px 2px 5px black;
-  background-color: #0080FF;
+  color : black;
+  background-color: #BEF781;
   padding: 10px 14px;
   font-size: 16px;
   cursor: pointer;
   display: inline-block;
-  box-shadow: 1px 2px 5px white;
+  box-shadow: 1px 2px 5px black;
 }
 .footer {
    background-color: black;
